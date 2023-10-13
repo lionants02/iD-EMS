@@ -113,4 +113,20 @@ erDiagram
     organization 1--many vehicle_person : "มี"
 
 
+    patient ["ผู้ป่วย ผู้ประสบเหตุ"]{
+        id patient_id PK "ระบบ gen"
+        strint cid "เลขบัตรประชาชน ผู้ประสบเหตุ"
+        string name "ชื่อ ผู้ประสบเหตุ"
+    }
+
+    vehicle_stamp["ข้อมูลการ stamp เวลารถ"]{
+        string O_Time1_Call "วันที่ เวลา (น.)สั่งการ"
+        string O_Latitude1_Call "พิกัด ค่า Latitude"
+        string O_Longitude1_Call "พิกัด ค่า Longitude"
+    }
+
+    vital_sign["สัญญาณชีพ"]
+
+
+
 ```
