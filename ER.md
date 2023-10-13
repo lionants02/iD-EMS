@@ -2,7 +2,6 @@
 
 ```mermaid
 erDiagram
-erDiagram
     event["เหตุการณ์"]
 
     call["สายการแจ้งเหตุ"] {
