@@ -1,0 +1,5339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-roledescription="er"
+   role="graphics-document document"
+   style="overflow:hidden"
+   width="1979.5771"
+   id="graph-div"
+   height="755.56091"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style1">@import url(&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css&quot;);'</style>
+  <defs
+     id="defs1">
+    <marker
+       orient="auto"
+       markerHeight="240"
+       markerWidth="190"
+       refY="7"
+       refX="0"
+       id="MD_PARENT_START">
+      <path
+         d="M 18,7 9,13 1,7 9,1 Z"
+         id="path1" />
+    </marker>
+    <style
+       id="svg-pan-zoom-controls-styles"
+       type="text/css">.svg-pan-zoom-control { cursor: pointer; fill: black; fill-opacity: 0.333; } .svg-pan-zoom-control:hover { fill-opacity: 0.8; } .svg-pan-zoom-control-background { fill: white; fill-opacity: 0.5; } .svg-pan-zoom-control-background { fill-opacity: 0.8; }</style>
+  </defs>
+  <defs
+     id="defs2">
+    <marker
+       orient="auto"
+       markerHeight="28"
+       markerWidth="20"
+       refY="7"
+       refX="19"
+       id="MD_PARENT_END">
+      <path
+         d="M 18,7 9,13 1,7 9,1 Z"
+         id="path2" />
+    </marker>
+  </defs>
+  <defs
+     id="defs3">
+    <marker
+       orient="auto"
+       markerHeight="18"
+       markerWidth="18"
+       refY="9"
+       refX="0"
+       id="ONLY_ONE_START">
+      <path
+         d="M 9,0 V 18 M 15,0 v 18"
+         fill="none"
+         stroke="#808080"
+         id="path3" />
+    </marker>
+  </defs>
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       markerHeight="18"
+       markerWidth="18"
+       refY="9"
+       refX="18"
+       id="ONLY_ONE_END">
+      <path
+         d="M 3,0 V 18 M 9,0 v 18"
+         fill="none"
+         stroke="#808080"
+         id="path4" />
+    </marker>
+  </defs>
+  <defs
+     id="defs5">
+    <marker
+       orient="auto"
+       markerHeight="18"
+       markerWidth="30"
+       refY="9"
+       refX="0"
+       id="ZERO_OR_ONE_START">
+      <circle
+         r="6"
+         cy="9"
+         cx="21"
+         fill="#ffffff"
+         stroke="#808080"
+         id="circle4" />
+      <path
+         d="M 9,0 V 18"
+         fill="none"
+         stroke="#808080"
+         id="path5" />
+    </marker>
+  </defs>
+  <defs
+     id="defs6">
+    <marker
+       orient="auto"
+       markerHeight="18"
+       markerWidth="30"
+       refY="9"
+       refX="30"
+       id="ZERO_OR_ONE_END">
+      <circle
+         r="6"
+         cy="9"
+         cx="9"
+         fill="#ffffff"
+         stroke="#808080"
+         id="circle5" />
+      <path
+         d="M 21,0 V 18"
+         fill="none"
+         stroke="#808080"
+         id="path6" />
+    </marker>
+  </defs>
+  <defs
+     id="defs7">
+    <marker
+       orient="auto"
+       markerHeight="36"
+       markerWidth="45"
+       refY="18"
+       refX="18"
+       id="ONE_OR_MORE_START">
+      <path
+         d="M 0,18 Q 18,0 36,18 18,36 0,18 M 42,9 v 18"
+         fill="none"
+         stroke="#808080"
+         id="path7" />
+    </marker>
+  </defs>
+  <defs
+     id="defs8">
+    <marker
+       orient="auto"
+       markerHeight="36"
+       markerWidth="45"
+       refY="18"
+       refX="27"
+       id="ONE_OR_MORE_END">
+      <path
+         d="M 3,9 V 27 M 9,18 Q 27,0 45,18 27,36 9,18"
+         fill="none"
+         stroke="#808080"
+         id="path8" />
+    </marker>
+  </defs>
+  <defs
+     id="defs9">
+    <marker
+       orient="auto"
+       markerHeight="36"
+       markerWidth="57"
+       refY="18"
+       refX="18"
+       id="ZERO_OR_MORE_START">
+      <circle
+         r="6"
+         cy="18"
+         cx="48"
+         fill="#ffffff"
+         stroke="#808080"
+         id="circle8" />
+      <path
+         d="M 0,18 Q 18,0 36,18 18,36 0,18"
+         fill="none"
+         stroke="#808080"
+         id="path9" />
+    </marker>
+  </defs>
+  <defs
+     id="defs10">
+    <marker
+       orient="auto"
+       markerHeight="36"
+       markerWidth="57"
+       refY="18"
+       refX="39"
+       id="ZERO_OR_MORE_END">
+      <circle
+         r="6"
+         cy="18"
+         cx="9"
+         fill="#ffffff"
+         stroke="#808080"
+         id="circle9" />
+      <path
+         d="M 21,18 Q 39,0 57,18 39,36 21,18"
+         fill="none"
+         stroke="#808080"
+         id="path10" />
+    </marker>
+  </defs>
+  <g
+     id="viewport-20231019065348036"
+     class="svg-pan-zoom_viewport"
+     transform="matrix(0.49024649,0,0,0.49024649,-9.8049282,-9.8049341)">
+    <style
+       id="style10">#graph-div{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-div .error-icon{fill:#552222;}#graph-div .error-text{fill:#552222;stroke:#552222;}#graph-div .edge-thickness-normal{stroke-width:2px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:#333333;stroke:#333333;}#graph-div .marker.cross{stroke:#333333;}#graph-div svg{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;}#graph-div .entityBox{fill:#ECECFF;stroke:#9370DB;}#graph-div .attributeBoxOdd{fill:#ffffff;stroke:#9370DB;}#graph-div .attributeBoxEven{fill:#f2f2f2;stroke:#9370DB;}#graph-div .relationshipLabelBox{fill:hsl(80, 100%, 96.2745098039%);opacity:0.7;background-color:hsl(80, 100%, 96.2745098039%);}#graph-div .relationshipLabelBox rect{opacity:0.5;}#graph-div .relationshipLine{stroke:#333333;}#graph-div .entityTitleText{text-anchor:middle;font-size:18px;fill:#333;}#graph-div #MD_PARENT_START{fill:#f5f5f5!important;stroke:#333333!important;stroke-width:1;}#graph-div #MD_PARENT_END{fill:#f5f5f5!important;stroke:#333333!important;stroke-width:1;}#graph-div :root{--mermaid-font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;}</style>
+    <g
+       id="g10" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ONE_OR_MORE_END)"
+       d="M 1645.075,47.822 1447.367,59.111 C 1249.66,70.4 854.244,92.978 656.536,112.6 458.829,132.222 458.829,148.889 458.829,157.222 v 8.334"
+       class="er relationshipLine"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ONLY_ONE_END)"
+       d="m 312.859,267.664 -31.795,10.019 C 249.27,287.702 185.68,307.74 153.885,335.3 c -31.794,27.561 -31.794,62.644 -31.794,80.185 v 17.542"
+       class="er relationshipLine"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ONLY_ONE_END)"
+       d="m 458.829,277.778 v 8.333 c 0,8.333 0,25 0,45.37 0,20.371 0,44.445 0,56.482 V 400"
+       class="er relationshipLine"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ONLY_ONE_END)"
+       d="m 604.798,267.156 32.422,10.104 c 32.421,10.103 97.264,30.31 129.685,69.067 32.422,38.756 32.422,96.061 32.422,124.714 v 28.652"
+       class="er relationshipLine"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ONE_OR_MORE_END)"
+       d="M 1821.744,48.325 2000.19,59.53 c 178.447,11.205 535.34,33.615 713.787,55.006 178.446,21.39 178.446,41.76 178.446,51.945 v 10.186"
+       class="er relationshipLine"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 1890.112,579.386 24.981,23.149 c 24.981,23.148 74.943,69.444 86.158,106.44 11.216,36.995 -16.315,64.69 -30.08,78.537 l -13.765,13.848"
+       class="er relationshipLine"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONE_OR_MORE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 1737.954,579.386 -37.514,23.149 c -37.514,23.148 -112.541,69.444 -175.773,108.199 -63.233,38.755 -114.671,69.968 -140.39,85.575 l -25.719,15.606"
+       class="er relationshipLine"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 3001.418,231.594 176.001,16.031 c 176.001,16.03 528.002,48.092 704.002,96.664 176.001,48.572 176.001,113.655 176.001,178.738 0,65.082 0,130.165 0,189.651 0,59.486 0,113.375 0,167.264 0,53.889 0,107.778 -316.978,153.479 -316.978,45.701 -950.934,83.215 -1267.912,101.972 l -316.978,18.757"
+       class="er relationshipLine"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 1879.29,958.524 v 13.847 c 0,13.848 0,41.543 0,63.724 0,22.18 0,38.847 0,47.18 v 8.334"
+       class="er relationshipLine"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 1246.454,947.968 v 15.607 c 0,15.607 0,46.82 59.429,74.531 59.428,27.71 178.285,51.918 237.714,64.021 l 59.428,12.104"
+       class="er relationshipLine"
+       id="path20" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 2783.429,228.913 -247.83,16.478 c -247.829,16.477 -743.487,49.432 -991.316,81.65 -247.829,32.218 -247.829,63.7 -247.829,79.44 v 15.741"
+       class="er relationshipLine"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ZERO_OR_MORE_START)"
+       marker-end="url(#ONLY_ONE_END)"
+       d="m 1459.817,623.831 25.509,15.741 c 25.509,15.74 76.528,47.222 124.857,76.81 48.329,29.588 93.968,57.283 116.788,71.13 l 22.82,13.848"
+       class="er relationshipLine"
+       id="path22" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ZERO_OR_MORE_START)"
+       marker-end="url(#ONLY_ONE_END)"
+       d="m 1244.826,623.831 -8.062,15.741 c -8.062,15.74 -24.186,47.222 -27.421,78.569 -3.235,31.348 6.419,62.561 11.245,78.168 l 4.827,15.606"
+       class="er relationshipLine"
+       id="path23" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 2892.423,266.667 v 10.185 c 0,10.185 0,30.555 0,49.074 0,18.518 0,35.185 0,43.518 v 8.334"
+       class="er relationshipLine"
+       id="path24" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 2741.032,572.981 -73.388,24.216 c -73.387,24.215 -220.163,72.647 -293.55,108.9 -73.388,36.252 -73.388,60.326 -73.388,72.363 v 12.038"
+       class="er relationshipLine"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 2769.256,668.275 -7.067,8.334 c -7.066,8.333 -21.199,25 -28.266,47.18 -7.066,22.181 -7.066,49.876 -7.066,63.723 v 13.848"
+       class="er relationshipLine"
+       id="path26" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_ONE_END)"
+       d="m 3015.591,668.275 7.067,8.334 c 7.066,8.333 21.199,25 28.266,54.629 7.066,29.63 7.066,72.222 7.066,93.519 v 21.296"
+       class="er relationshipLine"
+       id="path27" />
+    <path
+       style="fill:none;stroke:#808080"
+       marker-start="url(#ONLY_ONE_START)"
+       marker-end="url(#ZERO_OR_MORE_END)"
+       d="m 3043.815,565.592 90.507,25.447 c 90.507,25.447 271.522,76.342 362.03,110.122 90.507,33.781 90.507,50.448 90.507,58.781 v 8.333"
+       class="er relationshipLine"
+       id="path28" />
+    <g
+       transform="translate(1645.0752,20)"
+       id="entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414">
+      <rect
+         height="45.555557"
+         width="176.66843"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect28" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(88.33421,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414"
+         class="er entityLabel">เหตุการณ์</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect29" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="49.479168"
+         y="23.333334"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect30" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414-attr-1-name"
+         class="er entityLabel">Event_Id</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="23.333334"
+         x="86.74247"
+         class="er attributeBoxOdd"
+         id="rect31" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(91.742472,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="67.577789"
+         y="23.333334"
+         x="109.09063"
+         class="er attributeBoxOdd"
+         id="rect32" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(114.09063,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-event-1ffe3c19-d947-52a5-8f37-35436f7a5414-attr-1-comment"
+         class="er entityLabel">เลขเหตุการณ์</text>
+    </g>
+    <g
+       transform="translate(312.85912,165.55556)"
+       id="entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce">
+      <rect
+         height="112.22223"
+         width="291.93921"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect33" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(145.9696,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce"
+         class="er entityLabel">สายการแจ้งเหตุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect34" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="79.192848"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect35" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-1-name"
+         class="er entityLabel">E_Event_Detail</text>
+      <rect
+         height="22.222223"
+         width="153.14511"
+         y="23.333334"
+         x="138.79408"
+         class="er attributeBoxOdd"
+         id="rect36" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(143.79409,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-1-comment"
+         class="er entityLabel">อาการ/เหตุการณ์/รายละเอียดอื่นๆ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect37" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="79.192848"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect38" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-2-name"
+         class="er entityLabel">E_Idc_Code</text>
+      <rect
+         height="22.222223"
+         width="153.14511"
+         y="45.555557"
+         x="138.79408"
+         class="er attributeBoxEven"
+         id="rect39" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(143.79409,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-2-comment"
+         class="er entityLabel">การให้รหัส IDC</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect40" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-3-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="79.192848"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect41" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-3-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="153.14511"
+         y="67.777779"
+         x="138.79408"
+         class="er attributeBoxOdd"
+         id="rect42" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(143.79409,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-3-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect43" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-4-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="79.192848"
+         y="90"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect44" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-4-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="153.14511"
+         y="90"
+         x="138.79408"
+         class="er attributeBoxEven"
+         id="rect45" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(143.79409,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-call-013fed99-11d2-52be-aa0a-6f2cc8b308ce-attr-4-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(20,433.02654)"
+       id="entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d">
+      <rect
+         height="180"
+         width="204.18123"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect46" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(102.09062,12.222222)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d"
+         class="er entityLabel">สถานที่เกิดเหตุ</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="24.444445"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect47" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="24.444445"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect48" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-1-name"
+         class="er entityLabel">E_Place_Detail</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="24.444445"
+         x="115.48602"
+         class="er attributeBoxOdd"
+         id="rect49" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-1-comment"
+         class="er entityLabel">สถานที่รายละเอียด</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="46.666668"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect50" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="46.666668"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect51" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-2-name"
+         class="er entityLabel">E_Mooban</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="46.666668"
+         x="115.48602"
+         class="er attributeBoxEven"
+         id="rect52" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-2-comment"
+         class="er entityLabel">หมู่บ้าน/หมู่ที่</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="68.888893"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect53" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="68.888893"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect54" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-3-name"
+         class="er entityLabel">E_Tambol</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="68.888893"
+         x="115.48602"
+         class="er attributeBoxOdd"
+         id="rect55" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-3-comment"
+         class="er entityLabel">ตำบล</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="91.111115"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect56" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="91.111115"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect57" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-4-name"
+         class="er entityLabel">E_Amphur</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="91.111115"
+         x="115.48602"
+         class="er attributeBoxEven"
+         id="rect58" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-4-comment"
+         class="er entityLabel">อำเภอ</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="113.33334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect59" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="113.33334"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect60" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-5-name"
+         class="er entityLabel">E_Province</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="113.33334"
+         x="115.48602"
+         class="er attributeBoxOdd"
+         id="rect61" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-5-comment"
+         class="er entityLabel">จังหวัด</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="135.55556"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect62" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-6-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="135.55556"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect63" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-6-name"
+         class="er entityLabel">E_Latitude</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="135.55556"
+         x="115.48602"
+         class="er attributeBoxEven"
+         id="rect64" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-6-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="157.77779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect65" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,168.8889)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-7-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="78.22271"
+         y="157.77779"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect66" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,168.8889)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-7-name"
+         class="er entityLabel">E_Longitude</text>
+      <rect
+         height="22.222223"
+         width="88.695221"
+         y="157.77779"
+         x="115.48602"
+         class="er attributeBoxOdd"
+         id="rect67" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(120.48601,168.8889)"
+         y="0"
+         x="0"
+         id="text-entity-callplan-a8ca9907-6581-54d2-a26f-912771b0e09d-attr-7-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(324.18123,400)"
+       id="entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846">
+      <rect
+         height="246.05307"
+         width="269.29498"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect68" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(134.64749,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846"
+         class="er entityLabel">ผู้แจ้ง</text>
+      <rect
+         height="22.719727"
+         width="37.263306"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect69" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.693198)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="108.45486"
+         y="23.333334"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect70" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,34.693198)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-1-name"
+         class="er entityLabel">E_Caller_Name</text>
+      <rect
+         height="22.719727"
+         width="123.57682"
+         y="23.333334"
+         x="145.71817"
+         class="er attributeBoxOdd"
+         id="rect71" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,34.693198)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-1-comment"
+         class="er entityLabel">ชื่อ-นามสกุล</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="46.053062"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect72" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,57.164173)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="46.053062"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect73" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,57.164173)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-2-name"
+         class="er entityLabel">E_Call_Channel_Code</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="46.053062"
+         x="145.71817"
+         class="er attributeBoxEven"
+         id="rect74" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,57.164173)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-2-comment"
+         class="er entityLabel">ช่องทางการแจ้งเหตุ</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="68.275284"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect75" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="68.275284"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect76" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-3-name"
+         class="er entityLabel">E_Caller_Number</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="68.275284"
+         x="145.71817"
+         class="er attributeBoxOdd"
+         id="rect77" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-3-comment"
+         class="er entityLabel">โทรศัพท์ผู้แจ้ง/ความถี่วิทยุ</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="90.497505"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect78" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="90.497505"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect79" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-4-name"
+         class="er entityLabel">E_Place_Detail</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="90.497505"
+         x="145.71817"
+         class="er attributeBoxEven"
+         id="rect80" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-4-comment"
+         class="er entityLabel">สถานที่รายละเอียด</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="112.71973"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect81" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="112.71973"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect82" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-5-name"
+         class="er entityLabel">E_Mooban</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="112.71973"
+         x="145.71817"
+         class="er attributeBoxOdd"
+         id="rect83" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-5-comment"
+         class="er entityLabel">หมู่บ้าน/หมู่ที่</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="134.94196"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect84" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-6-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="134.94196"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect85" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-6-name"
+         class="er entityLabel">E_Tambol</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="134.94196"
+         x="145.71817"
+         class="er attributeBoxEven"
+         id="rect86" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-6-comment"
+         class="er entityLabel">ตำบล</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="157.16418"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect87" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-7-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="157.16418"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect88" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-7-name"
+         class="er entityLabel">E_Amphur</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="157.16418"
+         x="145.71817"
+         class="er attributeBoxOdd"
+         id="rect89" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-7-comment"
+         class="er entityLabel">อำเภอ</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="179.3864"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect90" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-8-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="179.3864"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect91" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-8-name"
+         class="er entityLabel">E_Province</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="179.3864"
+         x="145.71817"
+         class="er attributeBoxEven"
+         id="rect92" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-8-comment"
+         class="er entityLabel">จังหวัด</text>
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="201.60863"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect93" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-9-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="201.60863"
+         x="37.263306"
+         class="er attributeBoxOdd"
+         id="rect94" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-9-name"
+         class="er entityLabel">E_Latitude</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="201.60863"
+         x="145.71817"
+         class="er attributeBoxOdd"
+         id="rect95" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-9-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="37.263306"
+         y="223.83084"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect96" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-10-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="108.45486"
+         y="223.83084"
+         x="37.263306"
+         class="er attributeBoxEven"
+         id="rect97" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(42.263304,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-10-name"
+         class="er entityLabel">E_Longitude</text>
+      <rect
+         height="22.222223"
+         width="123.57682"
+         y="223.83084"
+         x="145.71817"
+         class="er attributeBoxEven"
+         id="rect98" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.71817,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-callperson-c6e12e12-a3a6-50d5-8395-f8f71d510846-attr-10-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(693.47621,499.6932)"
+       id="entity-callpatient-675d7364-95ec-5ae2-8547-eae7dcde2c34">
+      <rect
+         height="46.666668"
+         width="211.7014"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect99" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(105.8507,12.222222)"
+         y="0"
+         x="0"
+         id="text-entity-callpatient-675d7364-95ec-5ae2-8547-eae7dcde2c34"
+         class="er entityLabel">ข้อมูลเกี่ยวกับผู้ประสบเหตุตอนรับแจ้ง</text>
+      <rect
+         height="22.222223"
+         width="64.018906"
+         y="24.444445"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect100" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callpatient-675d7364-95ec-5ae2-8547-eae7dcde2c34-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="63.620853"
+         y="24.444445"
+         x="64.018906"
+         class="er attributeBoxOdd"
+         id="rect101" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(69.018903,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callpatient-675d7364-95ec-5ae2-8547-eae7dcde2c34-attr-1-name"
+         class="er entityLabel">detail</text>
+      <rect
+         height="22.222223"
+         width="84.061646"
+         y="24.444445"
+         x="127.63976"
+         class="er attributeBoxOdd"
+         id="rect102" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(132.63976,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-callpatient-675d7364-95ec-5ae2-8547-eae7dcde2c34-attr-1-comment"
+         class="er entityLabel">อาการ อื่นๆ</text>
+    </g>
+    <g
+       transform="translate(2783.4285,176.66667)"
+       id="entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0">
+      <rect
+         height="90"
+         width="217.98969"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect103" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(108.99484,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0"
+         class="er entityLabel">ปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect104" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect105" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-1-name"
+         class="er entityLabel">Operation_Id</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="23.333334"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect106" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="66.786804"
+         y="23.333334"
+         x="151.20287"
+         class="er attributeBoxOdd"
+         id="rect107" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(156.20287,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-1-comment"
+         class="er entityLabel">เลขปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect108" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-2-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect109" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-2-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="45.555557"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect110" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-2-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="66.786804"
+         y="45.555557"
+         x="151.20287"
+         class="er attributeBoxEven"
+         id="rect111" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(156.20287,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-2-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect112" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-3-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect113" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-3-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="67.777779"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect114" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-3-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="66.786804"
+         y="67.777779"
+         x="151.20287"
+         class="er attributeBoxOdd"
+         id="rect115" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(156.20287,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-ope-159a0052-c9fb-5be9-a60f-29948dda6ab0-attr-3-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(1687.7312,466.66667)"
+       id="entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359">
+      <rect
+         height="112.71973"
+         width="283.11685"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect116" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(141.55842,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359"
+         class="er entityLabel">หน่วยปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect117" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="107.88195"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect118" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-1-name"
+         class="er entityLabel">O_Department_Id</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="23.333334"
+         x="167.48318"
+         class="er attributeBoxOdd"
+         id="rect119" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(172.48319,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="93.285492"
+         y="23.333334"
+         x="189.83134"
+         class="er attributeBoxOdd"
+         id="rect120" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(194.83135,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-1-comment"
+         class="er entityLabel">รหัสหน่วยปฏิบัติการ</text>
+      <rect
+         height="22.719727"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect121" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="107.88195"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect122" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-2-name"
+         class="er entityLabel">O_Department_Name</text>
+      <rect
+         height="22.719727"
+         width="22.34816"
+         y="45.555557"
+         x="167.48318"
+         class="er attributeBoxEven"
+         id="rect123" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(172.48319,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-2-key"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="93.285492"
+         y="45.555557"
+         x="189.83134"
+         class="er attributeBoxEven"
+         id="rect124" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(194.83135,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-2-comment"
+         class="er entityLabel">ชื่อหน่วยปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="68.275284"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect125" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-3-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="107.88195"
+         y="68.275284"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect126" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-3-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="68.275284"
+         x="167.48318"
+         class="er attributeBoxOdd"
+         id="rect127" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(172.48319,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-3-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="93.285492"
+         y="68.275284"
+         x="189.83134"
+         class="er attributeBoxOdd"
+         id="rect128" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(194.83135,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-3-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90.497505"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect129" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-4-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="107.88195"
+         y="90.497505"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect130" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-4-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="90.497505"
+         x="167.48318"
+         class="er attributeBoxEven"
+         id="rect131" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(172.48319,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="93.285492"
+         y="90.497505"
+         x="189.83134"
+         class="er attributeBoxEven"
+         id="rect132" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(194.83135,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-organization-d01bc0bf-3d35-5382-94e1-22fc6aee0359-attr-4-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(1711.1969,801.35987)"
+       id="entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f">
+      <rect
+         height="157.16418"
+         width="336.18552"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect133" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(168.09276,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f"
+         class="er entityLabel">ชุดปฏิบัติการ พาหนะ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect134" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="86.388893"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect135" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-1-name"
+         class="er entityLabel">O_Vehicle_Id</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="23.333334"
+         x="145.99013"
+         class="er attributeBoxOdd"
+         id="rect136" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="167.84723"
+         y="23.333334"
+         x="168.33829"
+         class="er attributeBoxOdd"
+         id="rect137" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-1-comment"
+         class="er entityLabel">รหัสชุดปฏิบัติการ</text>
+      <rect
+         height="22.719727"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect138" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="86.388893"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect139" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-2-name"
+         class="er entityLabel">O_Vehicle_Name</text>
+      <rect
+         height="22.719727"
+         width="22.34816"
+         y="45.555557"
+         x="145.99013"
+         class="er attributeBoxEven"
+         id="rect140" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-2-key"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="167.84723"
+         y="45.555557"
+         x="168.33829"
+         class="er attributeBoxEven"
+         id="rect141" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-2-comment"
+         class="er entityLabel">ชื่อชุดปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="68.275284"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect142" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="86.388893"
+         y="68.275284"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect143" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-3-name"
+         class="er entityLabel">O_Vehicle_Level</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="68.275284"
+         x="145.99013"
+         class="er attributeBoxOdd"
+         id="rect144" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-3-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="167.84723"
+         y="68.275284"
+         x="168.33829"
+         class="er attributeBoxOdd"
+         id="rect145" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-3-comment"
+         class="er entityLabel">ระดับชุดปฏิบัติการ ALS, BLS, FR, ....</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90.497505"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect146" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="86.388893"
+         y="90.497505"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect147" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-4-name"
+         class="er entityLabel">type</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="90.497505"
+         x="145.99013"
+         class="er attributeBoxEven"
+         id="rect148" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="167.84723"
+         y="90.497505"
+         x="168.33829"
+         class="er attributeBoxEven"
+         id="rect149" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-4-comment"
+         class="er entityLabel">ชนิดพหนะ เรือ, รถ, ฮอ, ....</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.71973"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect150" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-5-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="86.388893"
+         y="112.71973"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect151" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-5-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="112.71973"
+         x="145.99013"
+         class="er attributeBoxOdd"
+         id="rect152" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-5-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="167.84723"
+         y="112.71973"
+         x="168.33829"
+         class="er attributeBoxOdd"
+         id="rect153" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-5-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="134.94196"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect154" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-6-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="86.388893"
+         y="134.94196"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect155" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-6-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="134.94196"
+         x="145.99013"
+         class="er attributeBoxEven"
+         id="rect156" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(150.99013,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-6-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="167.84723"
+         y="134.94196"
+         x="168.33829"
+         class="er attributeBoxEven"
+         id="rect157" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(173.33829,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-vehicle-15084473-5d9e-51f9-b992-3eb1c21c075f-attr-6-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(1057.3288,811.91542)"
+       id="entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a">
+      <rect
+         height="136.05307"
+         width="378.25131"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect158" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(189.12566,12.222222)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a"
+         class="er entityLabel">เจ้าหน้าที่/ผู้ปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="24.444445"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect159" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="83.315979"
+         y="24.444445"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect160" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-1-name"
+         class="er entityLabel">O_Person_Id</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="24.444445"
+         x="150.17361"
+         class="er attributeBoxOdd"
+         id="rect161" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.17362,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="205.72954"
+         y="24.444445"
+         x="172.52177"
+         class="er attributeBoxOdd"
+         id="rect162" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(177.52178,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-1-comment"
+         class="er entityLabel">เลขบัตรประชาชน เจ้าหน้าที่หน่วยบริการ แพทย์</text>
+      <rect
+         height="22.719727"
+         width="66.857643"
+         y="46.666668"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect163" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,58.026532)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="83.315979"
+         y="46.666668"
+         x="66.857643"
+         class="er attributeBoxEven"
+         id="rect164" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,58.026532)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-2-name"
+         class="er entityLabel">O_Person_Name</text>
+      <rect
+         height="22.719727"
+         width="22.34816"
+         y="46.666668"
+         x="150.17361"
+         class="er attributeBoxEven"
+         id="rect165" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.17362,58.026532)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-2-key"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="205.72954"
+         y="46.666668"
+         x="172.52177"
+         class="er attributeBoxEven"
+         id="rect166" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(177.52178,58.026532)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-2-comment"
+         class="er entityLabel">ชื่อ เจ้าหน้าที่หน่วยบริการ แพทย์</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="69.386398"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect167" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,80.497507)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-3-type"
+         class="er entityLabel">array[string]</text>
+      <rect
+         height="22.222223"
+         width="83.315979"
+         y="69.386398"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect168" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,80.497507)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-3-name"
+         class="er entityLabel">role</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="69.386398"
+         x="150.17361"
+         class="er attributeBoxOdd"
+         id="rect169" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.17362,80.497507)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-3-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="205.72954"
+         y="69.386398"
+         x="172.52177"
+         class="er attributeBoxOdd"
+         id="rect170" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(177.52178,80.497507)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-3-comment"
+         class="er entityLabel">ประเภทของเจ้าหน้าที่ คนรับเรื่อง, พขร. , EMT</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="91.60862"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect171" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,102.71973)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-4-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="83.315979"
+         y="91.60862"
+         x="66.857643"
+         class="er attributeBoxEven"
+         id="rect172" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,102.71973)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-4-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="91.60862"
+         x="150.17361"
+         class="er attributeBoxEven"
+         id="rect173" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.17362,102.71973)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="205.72954"
+         y="91.60862"
+         x="172.52177"
+         class="er attributeBoxEven"
+         id="rect174" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(177.52178,102.71973)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-4-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="113.83084"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect175" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,124.94195)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-5-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="83.315979"
+         y="113.83084"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect176" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,124.94195)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-5-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="22.34816"
+         y="113.83084"
+         x="150.17361"
+         class="er attributeBoxOdd"
+         id="rect177" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.17362,124.94195)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-5-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="205.72954"
+         y="113.83084"
+         x="172.52177"
+         class="er attributeBoxOdd"
+         id="rect178" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(177.52178,124.94195)"
+         y="0"
+         x="0"
+         id="text-entity-provider-90edbef0-6ec1-594b-adee-c6293e7f7c1a-attr-5-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(1603.0252,1091.6086)"
+       id="entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3">
+      <rect
+         height="157.77779"
+         width="552.52881"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect179" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(276.26441,12.222222)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3"
+         class="er entityLabel">เจ้าหน้าที่ที่อยู่ในชุดปฏิบัติการครั้งนี้</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="24.444445"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect180" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="24.444445"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect181" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-1-name"
+         class="er entityLabel">Operation_Id</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="24.444445"
+         x="136.11111"
+         class="er attributeBoxOdd"
+         id="rect182" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-1-key"
+         class="er entityLabel">PK,FK</text>
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="24.444445"
+         x="173.41423"
+         class="er attributeBoxOdd"
+         id="rect183" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,35.555556)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-1-comment"
+         class="er entityLabel">เลขปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="46.666668"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect184" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="46.666668"
+         x="66.857643"
+         class="er attributeBoxEven"
+         id="rect185" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-2-name"
+         class="er entityLabel">O_Vehicle_Id</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="46.666668"
+         x="136.11111"
+         class="er attributeBoxEven"
+         id="rect186" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-2-key"
+         class="er entityLabel">PK,FK</text>
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="46.666668"
+         x="173.41423"
+         class="er attributeBoxEven"
+         id="rect187" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,57.77778)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-2-comment"
+         class="er entityLabel">รหัสชุดปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="68.888893"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect188" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="68.888893"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect189" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-3-name"
+         class="er entityLabel">O_Person_Id</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="68.888893"
+         x="136.11111"
+         class="er attributeBoxOdd"
+         id="rect190" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-3-key"
+         class="er entityLabel">PK,FK</text>
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="68.888893"
+         x="173.41423"
+         class="er attributeBoxOdd"
+         id="rect191" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,80.000003)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-3-comment"
+         class="er entityLabel">เลขบัตรประชาชน เจ้าหน้าที่หน่วยบริการ แพทย์</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="91.111115"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect192" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-4-type"
+         class="er entityLabel">array[string]</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="91.111115"
+         x="66.857643"
+         class="er attributeBoxEven"
+         id="rect193" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-4-name"
+         class="er entityLabel">role_person</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="91.111115"
+         x="136.11111"
+         class="er attributeBoxEven"
+         id="rect194" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="91.111115"
+         x="173.41423"
+         class="er attributeBoxEven"
+         id="rect195" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,102.22223)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-4-comment"
+         class="er entityLabel">เจ้าหน้าที่คนนี้ ทำหน้าที่อะไรบ้าง ในปฏิบัติการครั้งนี้ เช่น เป็นคนรับเรื่อง, เป็นเจ้าหน้าที่....</text>
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="113.33334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect196" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-5-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="113.33334"
+         x="66.857643"
+         class="er attributeBoxOdd"
+         id="rect197" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-5-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="113.33334"
+         x="136.11111"
+         class="er attributeBoxOdd"
+         id="rect198" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-5-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="113.33334"
+         x="173.41423"
+         class="er attributeBoxOdd"
+         id="rect199" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,124.44445)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-5-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="66.857643"
+         y="135.55556"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect200" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-6-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="135.55556"
+         x="66.857643"
+         class="er attributeBoxEven"
+         id="rect201" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(71.857643,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-6-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="135.55556"
+         x="136.11111"
+         class="er attributeBoxEven"
+         id="rect202" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(141.11112,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-6-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="379.11459"
+         y="135.55556"
+         x="173.41423"
+         class="er attributeBoxEven"
+         id="rect203" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(178.41423,146.66667)"
+         y="0"
+         x="0"
+         id="text-entity-providerinvehicle-8e0faeb8-7fea-5917-a411-9fd0bdae42c3-attr-6-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(1005.1776,422.22222)"
+       id="entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6">
+      <rect
+         height="201.60863"
+         width="582.55359"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect204" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(291.27681,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6"
+         class="er entityLabel">พิกัด ตอนออกเหตุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect205" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect206" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-1-name"
+         class="er entityLabel">O_Time</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="23.333334"
+         x="128.64638"
+         class="er attributeBoxOdd"
+         id="rect207" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-1-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="23.333334"
+         x="150.66122"
+         class="er attributeBoxOdd"
+         id="rect208" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-1-comment"
+         class="er entityLabel">วันที่ เวลา (น.)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect209" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect210" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-2-name"
+         class="er entityLabel">O_Vehicle_Id</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="45.555557"
+         x="128.64638"
+         class="er attributeBoxEven"
+         id="rect211" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-2-key"
+         class="er entityLabel">FK</text>
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="45.555557"
+         x="150.66122"
+         class="er attributeBoxEven"
+         id="rect212" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-2-comment"
+         class="er entityLabel">รหัสชุดปฏิบัติการ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect213" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect214" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-3-name"
+         class="er entityLabel">O_Person_Id</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="67.777779"
+         x="128.64638"
+         class="er attributeBoxOdd"
+         id="rect215" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-3-key"
+         class="er entityLabel">FK</text>
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="67.777779"
+         x="150.66122"
+         class="er attributeBoxOdd"
+         id="rect216" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-3-comment"
+         class="er entityLabel">เลขบัตรประชาชน เจ้าหน้าที่หน่วยบริการ แพทย์ ที่สแตมป์ ถ้าปล่อยว่างจะหมายถึงมาจากอุปกณ์โดยตรง</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect217" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="90"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect218" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-4-name"
+         class="er entityLabel">Latitude</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="90"
+         x="128.64638"
+         class="er attributeBoxEven"
+         id="rect219" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="90"
+         x="150.66122"
+         class="er attributeBoxEven"
+         id="rect220" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-4-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.22223"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect221" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="112.22223"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect222" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-5-name"
+         class="er entityLabel">Longitude</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="112.22223"
+         x="128.64638"
+         class="er attributeBoxOdd"
+         id="rect223" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-5-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="112.22223"
+         x="150.66122"
+         class="er attributeBoxOdd"
+         id="rect224" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-5-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="59.601238"
+         y="134.44446"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect225" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,145.80431)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-6-type"
+         class="er entityLabel">enum</text>
+      <rect
+         height="22.719727"
+         width="69.045143"
+         y="134.44446"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect226" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,145.80431)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-6-name"
+         class="er entityLabel">state</text>
+      <rect
+         height="22.719727"
+         width="22.014839"
+         y="134.44446"
+         x="128.64638"
+         class="er attributeBoxEven"
+         id="rect227" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,145.80431)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-6-key"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="431.8924"
+         y="134.44446"
+         x="150.66122"
+         class="er attributeBoxEven"
+         id="rect228" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,145.80431)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-6-comment"
+         class="er entityLabel">[รับแจ้ง, สั่งการ, ออกจากฐาน, ถึงที่เกิดเหตุ, ออกจากที่เกิดเหตุ, ถึง ร.พ, อื่นๆ]</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="157.16418"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect229" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-7-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="157.16418"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect230" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-7-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="157.16418"
+         x="128.64638"
+         class="er attributeBoxOdd"
+         id="rect231" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-7-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="157.16418"
+         x="150.66122"
+         class="er attributeBoxOdd"
+         id="rect232" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-7-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="179.3864"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect233" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-8-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.045143"
+         y="179.3864"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect234" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-8-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="22.014839"
+         y="179.3864"
+         x="128.64638"
+         class="er attributeBoxEven"
+         id="rect235" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.64638,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-8-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="431.8924"
+         y="179.3864"
+         x="150.66122"
+         class="er attributeBoxEven"
+         id="rect236" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(155.66122,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-vehiclegps-7400bc60-3409-5742-87db-f13dd615c7a6-attr-8-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(2741.0321,377.77779)"
+       id="entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f">
+      <rect
+         height="290.49753"
+         width="302.78253"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect237" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(151.39126,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f"
+         class="er entityLabel">ผู้ป่วย ผู้ประสบเหตุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect238" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-1-type"
+         class="er entityLabel">strint</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect239" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-1-name"
+         class="er entityLabel">cid</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="23.333334"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect240" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-1-key"
+         class="er entityLabel">PK</text>
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="23.333334"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect241" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-1-comment"
+         class="er entityLabel">เลขบัตรประชาชน ผู้ประสบเหตุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect242" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect243" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-2-name"
+         class="er entityLabel">Operation_Id</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="45.555557"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect244" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-2-key"
+         class="er entityLabel">PK,FK</text>
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="45.555557"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect245" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-2-comment"
+         class="er entityLabel">เลขปฏิบัติการ</text>
+      <rect
+         height="22.719727"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect246" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,79.137644)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="69.253479"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect247" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,79.137644)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-3-name"
+         class="er entityLabel">name</text>
+      <rect
+         height="22.719727"
+         width="37.303112"
+         y="67.777779"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect248" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,79.137644)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-3-key"
+         class="er entityLabel" />
+      <rect
+         height="22.719727"
+         width="136.62469"
+         y="67.777779"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect249" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,79.137644)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-3-comment"
+         class="er entityLabel">ชื่อ ผู้ประสบเหตุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90.497505"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect250" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="90.497505"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect251" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-4-name"
+         class="er entityLabel">sex</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="90.497505"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect252" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-4-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="90.497505"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect253" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-4-comment"
+         class="er entityLabel">เพศ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.71973"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect254" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="112.71973"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect255" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-5-name"
+         class="er entityLabel">cid</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="112.71973"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect256" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-5-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="112.71973"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect257" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-5-comment"
+         class="er entityLabel">เลขบัตรประจำตัวประชาชน</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="134.94196"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect258" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-6-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="134.94196"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect259" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-6-name"
+         class="er entityLabel">__</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="134.94196"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect260" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-6-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="134.94196"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect261" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-6-comment"
+         class="er entityLabel">อายุ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="157.16418"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect262" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-7-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="157.16418"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect263" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-7-name"
+         class="er entityLabel">__</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="157.16418"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect264" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-7-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="157.16418"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect265" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,168.27529)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-7-comment"
+         class="er entityLabel">สัญชาติผู้ป่วย</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="179.3864"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect266" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-8-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="179.3864"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect267" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-8-name"
+         class="er entityLabel">__</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="179.3864"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect268" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-8-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="179.3864"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect269" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,190.49751)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-8-comment"
+         class="er entityLabel">ประเทศผู้ป่วย</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="201.60863"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect270" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-9-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="201.60863"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect271" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-9-name"
+         class="er entityLabel">__</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="201.60863"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect272" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-9-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="201.60863"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect273" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,212.71974)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-9-comment"
+         class="er entityLabel">เลขที่หนังสือเดินทาง</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="223.83084"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect274" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-10-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="223.83084"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect275" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-10-name"
+         class="er entityLabel">__</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="223.83084"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect276" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-10-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="223.83084"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect277" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,234.94196)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-10-comment"
+         class="er entityLabel">สิทธิการรักษา</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="246.05307"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect278" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,257.16418)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-11-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="246.05307"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect279" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,257.16418)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-11-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="246.05307"
+         x="128.85471"
+         class="er attributeBoxOdd"
+         id="rect280" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,257.16418)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-11-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="246.05307"
+         x="166.15782"
+         class="er attributeBoxOdd"
+         id="rect281" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,257.16418)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-11-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="268.2753"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect282" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,279.38641)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-12-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="69.253479"
+         y="268.2753"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect283" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,279.38641)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-12-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="37.303112"
+         y="268.2753"
+         x="128.85471"
+         class="er attributeBoxEven"
+         id="rect284" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(133.85471,279.38641)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-12-key"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="136.62469"
+         y="268.2753"
+         x="166.15782"
+         class="er attributeBoxEven"
+         id="rect285" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(171.15783,279.38641)"
+         y="0"
+         x="0"
+         id="text-entity-patient-08536941-4193-55f6-a8d0-ff34d7bacb2f-attr-12-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(2147.3824,790.49751)"
+       id="entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0">
+      <rect
+         height="178.8889"
+         width="306.64685"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect286" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(153.32342,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0"
+         class="er entityLabel">สัญญาณชีพ</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect287" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect288" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-1-name"
+         class="er entityLabel">btemp</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="23.333334"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect289" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-1-comment"
+         class="er entityLabel">Vital Sign อุณหภูมิร่างกาย</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect290" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect291" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-2-name"
+         class="er entityLabel">sbp</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="45.555557"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect292" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-2-comment"
+         class="er entityLabel">ความดันโลหิต ซิสโตลิก แรกรับ (มม.ปรอท)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect293" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect294" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-3-name"
+         class="er entityLabel">dbp</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="67.777779"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect295" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-3-comment"
+         class="er entityLabel">ความดันโลหิต ไดแอสโตลิก (มม.ปรอท)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect296" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="90"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect297" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-4-name"
+         class="er entityLabel">pr</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="90"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect298" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-4-comment"
+         class="er entityLabel">อัตราการเต้นของชีพจร (ครั้งต่อนาที)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.22223"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect299" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="112.22223"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect300" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-5-name"
+         class="er entityLabel">rr</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="112.22223"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect301" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-5-comment"
+         class="er entityLabel">อัตราการหายใจ (ครั้งต่อนาที)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="134.44446"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect302" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-6-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="134.44446"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect303" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-6-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="134.44446"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect304" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-6-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="156.66667"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect305" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-7-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="156.66667"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect306" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-7-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="190.03473"
+         y="156.66667"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect307" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-vitalsign-6454f1fc-1aaa-5333-84c0-2f4fd496faa0-attr-7-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(2554.0292,801.35987)"
+       id="entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e">
+      <rect
+         height="157.16418"
+         width="345.65479"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect308" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(172.82739,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e"
+         class="er entityLabel">ข้อมูลการให้ยา</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect309" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect310" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-1-name"
+         class="er entityLabel">didstd</text>
+      <rect
+         height="22.222223"
+         width="229.04266"
+         y="23.333334"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect311" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-1-comment"
+         class="er entityLabel">การให้ยา รหัสยามาตรฐานที่กําหนดเป็น 24 หลัก</text>
+      <rect
+         height="22.719727"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect312" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.719727"
+         width="57.010872"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect313" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-2-name"
+         class="er entityLabel">dname</text>
+      <rect
+         height="22.719727"
+         width="229.04266"
+         y="45.555557"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect314" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,56.915421)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-2-comment"
+         class="er entityLabel">ชื่อยา</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="68.275284"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect315" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="68.275284"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect316" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-3-name"
+         class="er entityLabel">amount</text>
+      <rect
+         height="22.222223"
+         width="229.04266"
+         y="68.275284"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect317" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,79.386396)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-3-comment"
+         class="er entityLabel">จํานวนยาที่จ่าย ระบุเป็นตัวเลขไม่เกิน 12 หลัก</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90.497505"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect318" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="90.497505"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect319" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-4-name"
+         class="er entityLabel">unit</text>
+      <rect
+         height="22.222223"
+         width="229.04266"
+         y="90.497505"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect320" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,101.60862)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-4-comment"
+         class="er entityLabel">รหัสหน่วยนับของยา จากกองยุทธศาสตร์และแผนงาน</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.71973"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect321" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-5-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="112.71973"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect322" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-5-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="229.04266"
+         y="112.71973"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect323" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,123.83084)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-5-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="134.94196"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect324" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-6-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="134.94196"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect325" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-6-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="229.04266"
+         y="134.94196"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect326" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,146.05307)"
+         y="0"
+         x="0"
+         id="text-entity-drugems-2a5a2016-052e-5112-afdd-8b48b54ed66e-attr-6-comment"
+         class="er entityLabel" />
+    </g>
+    <g
+       transform="translate(2999.684,846.05307)"
+       id="entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7">
+      <rect
+         height="67.777779"
+         width="116.61211"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect327" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(58.306055,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7"
+         class="er entityLabel">เสียชีวิต</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect328" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7-attr-1-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect329" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7-attr-1-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect330" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7-attr-2-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect331" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-death-a089efe0-8a91-5f79-9996-df0fd79884f7-attr-2-name"
+         class="er entityLabel">update_at</text>
+    </g>
+    <g
+       transform="translate(3216.2961,768.27528)"
+       id="entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95">
+      <rect
+         height="223.33334"
+         width="741.12604"
+         y="0"
+         x="0"
+         class="er entityBox"
+         id="rect332" />
+      <text
+         style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+         transform="translate(370.56301,11.666667)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95"
+         class="er entityLabel">โรงพยาบาล</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="23.333334"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect333" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-1-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="23.333334"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect334" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-1-name"
+         class="er entityLabel">hn</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="23.333334"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect335" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,34.444446)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-1-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="45.555557"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect336" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-2-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="45.555557"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect337" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-2-name"
+         class="er entityLabel">___</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="45.555557"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect338" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,56.666669)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-2-comment"
+         class="er entityLabel">วินิจฉัย</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="67.777779"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect339" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-3-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="67.777779"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect340" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-3-name"
+         class="er entityLabel">URGENCY</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="67.777779"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect341" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,78.888892)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-3-comment"
+         class="er entityLabel">ประเมินความรุนแรง (แดง เหลือง เขียว) ระดับความเร่งด่วน 5 ระดับ (1= Resuscitation, 2= emergent, 3= urgent, 4= Less urgent, 5= non urgent)</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="90"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect342" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-4-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="90"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect343" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-4-name"
+         class="er entityLabel">___</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="90"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect344" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,101.11112)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-4-comment"
+         class="er entityLabel">การประเมิน 4 ด้าน</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="112.22223"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect345" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-5-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="112.22223"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect346" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-5-name"
+         class="er entityLabel">___</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="112.22223"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect347" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,123.33334)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-5-comment"
+         class="er entityLabel">การนอนที่ รพ.</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="134.44446"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect348" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-6-type"
+         class="er entityLabel">string</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="134.44446"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect349" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-6-name"
+         class="er entityLabel">___</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="134.44446"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect350" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,145.55556)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-6-comment"
+         class="er entityLabel">ผลการรักษาที่ รพ.</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="156.66667"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect351" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-7-type"
+         class="er entityLabel">boolean</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="156.66667"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect352" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-7-name"
+         class="er entityLabel">___</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="156.66667"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect353" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,167.77779)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-7-comment"
+         class="er entityLabel">ยกเลิก การไป รพ. นี้ ใช่/ไม่</text>
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="178.8889"
+         x="0"
+         class="er attributeBoxEven"
+         id="rect354" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,190.00001)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-8-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="178.8889"
+         x="59.601238"
+         class="er attributeBoxEven"
+         id="rect355" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,190.00001)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-8-name"
+         class="er entityLabel">create_at</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="178.8889"
+         x="116.61211"
+         class="er attributeBoxEven"
+         id="rect356" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,190.00001)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-8-comment"
+         class="er entityLabel" />
+      <rect
+         height="22.222223"
+         width="59.601238"
+         y="201.11111"
+         x="0"
+         class="er attributeBoxOdd"
+         id="rect357" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(5,212.22223)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-9-type"
+         class="er entityLabel">timestamp</text>
+      <rect
+         height="22.222223"
+         width="57.010872"
+         y="201.11111"
+         x="59.601238"
+         class="er attributeBoxOdd"
+         id="rect358" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(64.601238,212.22223)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-9-name"
+         class="er entityLabel">update_at</text>
+      <rect
+         height="22.222223"
+         width="624.51392"
+         y="201.11111"
+         x="116.61211"
+         class="er attributeBoxOdd"
+         id="rect359" />
+      <text
+         style="font-size:10.2px;dominant-baseline:middle"
+         transform="translate(121.61211,212.22223)"
+         y="0"
+         x="0"
+         id="text-entity-hospital-f1002003-69ec-50aa-8afa-d0af331e7c95-attr-9-comment"
+         class="er entityLabel" />
+    </g>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="76.667755"
+       x="1038.7126"
+       class="er relationshipLabelBox"
+       id="rect360" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="83.334419"
+       x="1042.6016"
+       id="rel199"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="310.02084"
+       x="177.69295"
+       class="er relationshipLabelBox"
+       id="rect361" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="316.6875"
+       x="181.58183"
+       id="rel200"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="332.22235"
+       x="454.94012"
+       class="er relationshipLabelBox"
+       id="rect362" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="338.88901"
+       x="458.82901"
+       id="rel201"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="331.39407"
+       x="755.34943"
+       class="er relationshipLabelBox"
+       id="rect363" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="338.06073"
+       x="759.23834"
+       id="rel202"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="77.446373"
+       x="2365.5344"
+       class="er relationshipLabelBox"
+       id="rect364" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="84.113037"
+       x="2369.4233"
+       id="rel203"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="673.896"
+       x="1983.0627"
+       class="er relationshipLabelBox"
+       id="rect365" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="680.56268"
+       x="1986.9517"
+       id="rel204"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="689.42065"
+       x="1544.6346"
+       class="er relationshipLabelBox"
+       id="rect366" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="696.08734"
+       x="1548.5236"
+       id="rel205"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="998.23065"
+       x="3892.0054"
+       class="er relationshipLabelBox"
+       id="rect367" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="1004.8973"
+       x="3895.8943"
+       id="rel206"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="1018.3998"
+       x="1875.4011"
+       class="er relationshipLabelBox"
+       id="rect368" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="1025.0665"
+       x="1879.29"
+       id="rel207"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="1061.8187"
+       x="1391.8406"
+       class="er relationshipLabelBox"
+       id="rect369" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="1068.4854"
+       x="1395.7295"
+       id="rel208"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="275.17386"
+       x="2016.4083"
+       class="er relationshipLabelBox"
+       id="rect370" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="281.84052"
+       x="2020.2972"
+       id="rel209"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="60.034725"
+       y="706.2832"
+       x="1574.5698"
+       class="er relationshipLabelBox"
+       id="rect371" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="712.94989"
+       x="1604.5872"
+       id="rel210"
+       class="er relationshipLabel">ประกอบด้วย</text>
+    <rect
+       height="13.333334"
+       width="36.7197"
+       y="708.73322"
+       x="1191.2988"
+       class="er relationshipLabelBox"
+       id="rect372" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="715.3999"
+       x="1209.6587"
+       id="rel211"
+       class="er relationshipLabel">สแตมป์</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="315.55585"
+       x="2888.5342"
+       class="er relationshipLabelBox"
+       id="rect373" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="322.2225"
+       x="2892.4231"
+       id="rel212"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="648.34448"
+       x="2495.1711"
+       class="er relationshipLabelBox"
+       id="rect374" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="655.01117"
+       x="2499.0601"
+       id="rel213"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="722.84192"
+       x="2728.394"
+       class="er relationshipLabelBox"
+       id="rect375" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="729.50861"
+       x="2732.283"
+       id="rel214"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="745.34045"
+       x="3050.7087"
+       class="er relationshipLabelBox"
+       id="rect376" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="752.00714"
+       x="3054.5977"
+       id="rel215"
+       class="er relationshipLabel">มี</text>
+    <rect
+       height="13.333334"
+       width="7.7777781"
+       y="640.37305"
+       x="3325.104"
+       class="er relationshipLabelBox"
+       id="rect377" />
+    <text
+       style="font-size:12px;dominant-baseline:middle;text-anchor:middle"
+       y="647.03973"
+       x="3328.9929"
+       id="rel216"
+       class="er relationshipLabel">มี</text>
+  </g>
+  <g
+     id="svg-pan-zoom-controls"
+     transform="matrix(0.75,0,0,0.75,1697.2293,687.2209)"
+     class="svg-pan-zoom-control">
+    <g
+       id="svg-pan-zoom-zoom-in"
+       transform="matrix(0.015,0,0,0.015,30.5,5)"
+       class="svg-pan-zoom-control">
+      <rect
+         x="0"
+         y="0"
+         width="1500"
+         height="1400"
+         class="svg-pan-zoom-control-background"
+         id="rect378" />
+      <path
+         d="m 1280,576 v 128 q 0,26 -19,45 -19,19 -45,19 H 896 v 320 q 0,26 -19,45 -19,19 -45,19 H 704 q -26,0 -45,-19 -19,-19 -19,-45 V 768 H 320 q -26,0 -45,-19 -19,-19 -19,-45 V 576 q 0,-26 19,-45 19,-19 45,-19 H 640 V 192 q 0,-26 19,-45 19,-19 45,-19 h 128 q 26,0 45,19 19,19 19,45 v 320 h 320 q 26,0 45,19 19,19 19,45 z m 256,544 V 160 Q 1536,41 1451.5,-43.5 1367,-128 1248,-128 H 288 Q 169,-128 84.5,-43.5 0,41 0,160 v 960 Q 0,1239 84.5,1323.5 169,1408 288,1408 h 960 q 119,0 203.5,-84.5 Q 1536,1239 1536,1120 Z"
+         class="svg-pan-zoom-control-element"
+         id="path378" />
+    </g>
+    <g
+       id="svg-pan-zoom-reset-pan-zoom"
+       transform="matrix(0.4,0,0,0.4,5,35)"
+       class="svg-pan-zoom-control">
+      <rect
+         x="2"
+         y="2"
+         width="182"
+         height="58"
+         class="svg-pan-zoom-control-background"
+         id="rect379" />
+      <path
+         d="m 33.051,20.632 c -0.742,-0.406 -1.854,-0.609 -3.338,-0.609 h -7.969 v 9.281 h 7.769 c 1.543,0 2.701,-0.188 3.473,-0.562 1.365,-0.656 2.048,-1.953 2.048,-3.891 -0.002,-2.094 -0.662,-3.5 -1.983,-4.219 z"
+         class="svg-pan-zoom-control-element"
+         id="path379" />
+      <path
+         d="M 170.231,0.5 H 15.847 C 7.102,0.5 0.5,5.708 0.5,11.84 V 50.701 C 0.5,56.833 7.102,61.5 15.847,61.5 h 154.384 c 8.745,0 15.269,-4.667 15.269,-10.798 V 11.84 C 185.5,5.708 178.976,0.5 170.231,0.5 Z M 42.837,48.569 H 34.868 C 34.649,47.803 34.493,47.186 34.399,46.717 34.211,45.748 34.11,44.756 34.094,43.74 l -0.047,-3.211 c -0.03,-2.203 -0.41,-3.672 -1.142,-4.406 -0.732,-0.734 -2.103,-1.102 -4.113,-1.102 h -7.05 V 48.568 H 14.687 V 14.022 h 16.524 c 2.361,0.047 4.178,0.344 5.45,0.891 1.272,0.547 2.351,1.352 3.234,2.414 0.731,0.875 1.31,1.844 1.737,2.906 0.427,1.062 0.64,2.273 0.64,3.633 0,1.641 -0.414,3.254 -1.242,4.84 -0.828,1.586 -2.195,2.707 -4.102,3.363 1.594,0.641 2.723,1.551 3.387,2.73 0.664,1.179 0.996,2.98 0.996,5.402 v 2.32 c 0,1.578 0.063,2.648 0.19,3.211 0.19,0.891 0.635,1.547 1.333,1.969 v 0.868 z m 32.742,0 H 49.399 V 14.022 h 25.336 v 6.117 H 56.454 v 7.336 h 16.781 v 6 H 56.454 v 8.883 h 19.125 z m 28.918,-2.238 c -2.44,2.086 -5.887,3.129 -10.34,3.129 -4.548,0 -8.125,-1.027 -10.731,-3.082 -2.606,-2.055 -3.909,-4.879 -3.909,-8.473 h 6.891 c 0.224,1.578 0.662,2.758 1.316,3.539 1.196,1.422 3.246,2.133 6.15,2.133 1.739,0 3.151,-0.188 4.236,-0.562 2.058,-0.719 3.087,-2.055 3.087,-4.008 0,-1.141 -0.504,-2.023 -1.512,-2.648 -1.008,-0.609 -2.607,-1.148 -4.796,-1.617 l -3.74,-0.82 c -3.676,-0.812 -6.201,-1.695 -7.576,-2.648 -2.328,-1.594 -3.492,-4.086 -3.492,-7.477 0,-3.094 1.139,-5.664 3.417,-7.711 2.278,-2.047 5.623,-3.07 10.036,-3.07 3.685,0 6.829,0.965 9.431,2.895 2.602,1.93 3.966,4.73 4.093,8.402 h -6.938 c -0.128,-2.078 -1.057,-3.555 -2.787,-4.43 -1.154,-0.578 -2.587,-0.867 -4.301,-0.867 -1.907,0 -3.428,0.375 -4.565,1.125 -1.138,0.75 -1.706,1.797 -1.706,3.141 0,1.234 0.561,2.156 1.682,2.766 0.721,0.406 2.25,0.883 4.589,1.43 l 6.063,1.43 c 2.657,0.625 4.648,1.461 5.975,2.508 2.059,1.625 3.089,3.977 3.089,7.055 -0.002,3.153 -1.222,5.774 -3.662,7.86 z m 35.113,2.238 H 113.43 V 14.022 h 25.336 v 6.117 h -18.281 v 7.336 h 16.781 v 6 h -16.781 v 8.883 H 139.61 Z M 170.337,20.14 h -10.336 v 28.43 h -7.266 V 20.14 h -10.383 v -6.117 h 27.984 v 6.117 z"
+         class="svg-pan-zoom-control-element"
+         id="path380" />
+    </g>
+    <g
+       id="svg-pan-zoom-zoom-out"
+       transform="matrix(0.015,0,0,0.015,30.5,70)"
+       class="svg-pan-zoom-control">
+      <rect
+         x="0"
+         y="0"
+         width="1500"
+         height="1400"
+         class="svg-pan-zoom-control-background"
+         id="rect380" />
+      <path
+         d="m 1280,576 v 128 q 0,26 -19,45 -19,19 -45,19 H 320 q -26,0 -45,-19 -19,-19 -19,-45 V 576 q 0,-26 19,-45 19,-19 45,-19 h 896 q 26,0 45,19 19,19 19,45 z m 256,544 V 160 Q 1536,41 1451.5,-43.5 1367,-128 1248,-128 H 288 Q 169,-128 84.5,-43.5 0,41 0,160 v 960 Q 0,1239 84.5,1323.5 169,1408 288,1408 h 960 q 119,0 203.5,-84.5 Q 1536,1239 1536,1120 Z"
+         class="svg-pan-zoom-control-element"
+         id="path381" />
+    </g>
+  </g>
+</svg>
